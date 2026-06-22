@@ -4,7 +4,9 @@ import { useNavigate } from "react-router-dom"
 import CreatePost from './pages/CreatePost.jsx'
 
 
+
 const Feed = () => {
+     const navigate = useNavigate()
 
     const [ posts, setPosts ] = useState([])
 
