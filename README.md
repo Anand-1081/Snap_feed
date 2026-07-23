@@ -9,15 +9,12 @@ A full-stack image sharing web application built using the **MERN Stack**. Users
 
 
 ## 📸 Screenshots
-
-```
 Feed Page
 <img width="1901" height="921" alt="image" src="https://github.com/user-attachments/assets/ecaa734c-b901-4bec-a44d-d0ea67dd94a3" />
 
 Image Upload Page
 <img width="1917" height="921" alt="image" src="https://github.com/user-attachments/assets/d1a1b9c0-5ff7-4a94-a336-0847094af845" />
 
-```
 
 ## 🚀 Features
 
