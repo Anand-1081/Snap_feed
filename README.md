@@ -25,7 +25,7 @@ Image Upload Page
 - 📱 Responsive React frontend
 - ☁️ Cloud image optimization and delivery
 - 🌐 Client deployed on Vercel
-- 🖥️ Backend deployed separately
+- 🖥️ Backend deployed on Render
 
 ---
 
